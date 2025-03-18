@@ -16,5 +16,14 @@
     },
 	"pokemon.rotom_mow.cry": {
         "sounds": ["cobblemon:pokemon/rotom/rotom_cry"]
-    }
+    },
+   "pokemon.roaringmoon.cry": {
+       "sounds": ["cobblemon:pokemon/roaringmoon/roaringmoon_cry.ogg"]
+   },
+   "pokemon.cosmog.cry": {
+       "sounds": ["cobblemon:pokemon/cosmog/cosmog_cry.ogg"]
+   },
+   "pokemon.cosmoem.cry": {
+       "sounds": ["cobblemon:pokemon/cosmoem/cosmoem_cry.ogg"]
+   }
 }
